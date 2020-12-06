@@ -1,0 +1,20 @@
+{
+    "user1": {
+        "id": 1,
+        "firstname": "Frank",
+        "lastname": "Amand",
+        "email": "frank.amand@gmail.com"
+    },
+    "user2": {
+        "id": 2,
+        "firstname": "Frank2",
+        "lastname": "Amand2",
+        "email": "frank2.amand2@gmail.com"
+    },
+    "user3": {
+        "id": 3,
+        "firstname": "Frank3",
+        "lastname": "Amand3",
+        "email": "frank3.amand3@gmail.com"
+    }
+}
